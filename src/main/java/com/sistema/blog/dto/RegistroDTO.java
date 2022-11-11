@@ -7,6 +7,6 @@ public class RegistroDTO {
 
     private String nombre;
     private String username;
-    private String emial;
+    private String email;
     private String password;
 }
